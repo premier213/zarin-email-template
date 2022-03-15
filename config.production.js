@@ -10,7 +10,7 @@
 */
 
 module.exports = {
-  baseImageURL: "http://ftp1.meysamsaberi.ir/",
+  baseImageURL: "https://deskt.zarinworld.ir/emails/",
   build: {
     templates: {
       destination: {
